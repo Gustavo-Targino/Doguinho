@@ -1,0 +1,23 @@
+.btn { 
+    margin-top: 0.4rem;
+    background-color: #000; 
+    border: none; 
+    border-radius: 6px; 
+    color: #fff; 
+    flex-grow: 1; 
+    font-size: 15px; 
+    height: 36px; 
+    line-height: 20px; 
+    min-width: 185px; 
+    padding: 0 16px 0 16px; 
+    color:white; 
+    cursor: pointer; 
+} 
+    
+.btn:hover { 
+    cursor: pointer; 
+    color: #F9F54B;
+    transform: scale(1.1, 1.1);
+} 
+    
+    
